@@ -4,14 +4,14 @@
 
 ## 入门知识(博主懒得改了)
 
-- https://pcnn22do1hxs.feishu.cn/wiki/RO2gwjUreiF2pdkWmUCc2BQ7ngf
-- https://github.com/RM-DragoPass-EC-Group/.github/blob/main/profile/Beginning/Beginning.md
-- https://github.com/RM-DragoPass-EC-Group/.github/blob/main/profile/Development%20Standard/Development%20Standard.md
+- [基本知识](https://pcnn22do1hxs.feishu.cn/wiki/RO2gwjUreiF2pdkWmUCc2BQ7ngf)
+- [安装须知](https://github.com/RM-DragoPass-EC-Group/.github/blob/main/profile/Beginning/Beginning.md)
+- [代码规范](https://github.com/RM-DragoPass-EC-Group/.github/blob/main/profile/Development%20Standard/Development%20Standard.md)
 
 ## 代码位置
 
-- https://github.com/cuhk-robomaster-ec-group/hero-code
-- https://github.com/cuhk-robomaster-ec-group/infrantry-code
+- [英雄代码](https://github.com/cuhk-robomaster-ec-group/hero-code)
+- [步兵代码](https://github.com/cuhk-robomaster-ec-group/infrantry-code)
 
 ##结语
 -欢迎各位大佬在这里发挥自己的聪明才智，让我们共同进步
