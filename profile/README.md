@@ -1,12 +1,17 @@
-## Hi there 👋
+# CUHK RoboMaster EC Code
 
-<!--
+目前代码基本沿用香港中文大学（深圳）电控代码，感谢原团队提供的帮助。
 
-**Here are some ideas to get you started:**
+## 入门知识(博主懒得改了)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [基本知识](https://pcnn22do1hxs.feishu.cn/wiki/RO2gwjUreiF2pdkWmUCc2BQ7ngf)
+- [安装须知](https://github.com/RM-DragoPass-EC-Group/.github/blob/main/profile/Beginning/Beginning.md)
+- [代码规范](https://github.com/RM-DragoPass-EC-Group/.github/blob/main/profile/Development%20Standard/Development%20Standard.md)
+
+## 代码位置
+
+- [英雄代码](https://github.com/cuhk-robomaster-ec-group/hero-code)
+- [步兵代码](https://github.com/cuhk-robomaster-ec-group/infrantry-code)
+
+##结语
+-欢迎各位大佬在这里发挥自己的聪明才智，让我们共同进步
