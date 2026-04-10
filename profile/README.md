@@ -14,5 +14,9 @@
 - [英雄代码](https://github.com/cuhk-robomaster-ec-group/hero-code)
 - [步兵代码](https://github.com/cuhk-robomaster-ec-group/infrantry-code)
 
+## 当前配置
+
+- 团队目前是使用vscode编译(gcc)配合ozone来调试，不使用keil(主要是太贵了)
+
 ##结语
 -欢迎各位大佬在这里发挥自己的聪明才智，让我们共同进步
