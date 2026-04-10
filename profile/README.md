@@ -7,6 +7,7 @@
 - [基本知识](https://pcnn22do1hxs.feishu.cn/wiki/RO2gwjUreiF2pdkWmUCc2BQ7ngf)
 - [安装须知](https://github.com/RM-DragoPass-EC-Group/.github/blob/main/profile/Beginning/Beginning.md)
 - [代码规范](https://github.com/RM-DragoPass-EC-Group/.github/blob/main/profile/Development%20Standard/Development%20Standard.md)
+- [开发版基本资料](https://github.com/RM-DragoPass-EC-Group/.github/tree/main/Docs)
 
 ## 代码位置
 
